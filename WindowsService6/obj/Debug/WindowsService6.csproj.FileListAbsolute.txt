@@ -1,9 +1,0 @@
-C:\WindowsService6\bin\Debug\WindowsService6.exe.config
-C:\WindowsService6\bin\Debug\WindowsService6.exe
-C:\WindowsService6\bin\Debug\WindowsService6.pdb
-C:\WindowsService6\obj\Debug\WindowsService6.csprojAssemblyReference.cache
-C:\WindowsService6\obj\Debug\WindowsService6.ProjectInstaller.resources
-C:\WindowsService6\obj\Debug\WindowsService6.csproj.GenerateResource.cache
-C:\WindowsService6\obj\Debug\WindowsService6.csproj.CoreCompileInputs.cache
-C:\WindowsService6\obj\Debug\WindowsService6.exe
-C:\WindowsService6\obj\Debug\WindowsService6.pdb
