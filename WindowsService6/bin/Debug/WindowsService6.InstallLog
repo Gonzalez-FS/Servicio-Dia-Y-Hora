@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'C:\WindowsService6\bin\Debug\WindowsService6.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService6\bin\Debug\WindowsService6.InstallLog
+   assemblypath = C:\WindowsService6\bin\Debug\WindowsService6.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\WindowsService6\bin\Debug\WindowsService6.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService6\bin\Debug\WindowsService6.InstallLog
+   assemblypath = C:\WindowsService6\bin\Debug\WindowsService6.exe
